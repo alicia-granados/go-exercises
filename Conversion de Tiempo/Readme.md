@@ -1,4 +1,4 @@
 Conversión de Tiempo
 
-![images_1](assets/images_1.png)
-![images_2](assets/images_2.png)
+![images_1](assets/image_1.png)
+![images_2](assets/image_2.png)
