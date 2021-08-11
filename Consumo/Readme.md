@@ -1,4 +1,4 @@
 Consumo
 
-![image_1](assets/image_1.png)
-![image_2](assets/image_2.png)
+![images_1](assets/image_1.png)
+![images_2](assets/image_2.png)
