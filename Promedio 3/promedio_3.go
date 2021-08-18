@@ -19,27 +19,27 @@ func main() {
 	if media >= 7.0 {
 
 		fmt.Println("Media:", s)
-		fmt.Print("Aluno aprovado.\n")
+		fmt.Println("Aluno aprovado.")
 
 	} else if media < 5.0 {
 
 		fmt.Println("Media:", s)
-		fmt.Print("Aluno reprovado.\n")
+		fmt.Println("Aluno reprovado.")
 
 	} else if media >= 5.0 && media <= 6.9 {
 
 		fmt.Scanln(&E)
 		fmt.Println("Media:", s)
-		fmt.Print("Aluno em exame.\n")
+		fmt.Println("Aluno em exame.")
 		fmt.Println("Nota do exame:", E)
 		E = (media + E) / 2
 		e := fmt.Sprintf("%.1f", E)
 
 		if E >= 5.0 {
-			fmt.Print("Aluno aprovado.\n")
+			fmt.Println("Aluno aprovado.")
 			fmt.Println("Media final:", e)
 		} else {
-			fmt.Print("Aluno reprovado.\n")
+			fmt.Println("Aluno reprovado.")
 			fmt.Println("Media final:", e)
 		}
 	}
