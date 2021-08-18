@@ -31,7 +31,8 @@ func main() {
 		fmt.Scanln(&E)
 		fmt.Println("Media:", s)
 		fmt.Println("Aluno em exame.")
-		fmt.Println("Nota do exame:", E)
+		ei := fmt.Sprintf("%.1f", E)
+		fmt.Println("Nota do exame:", ei)
 		E = (media + E) / 2
 		e := fmt.Sprintf("%.1f", E)
 
