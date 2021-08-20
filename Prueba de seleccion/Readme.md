@@ -1,4 +1,4 @@
 Prueba de Selección
 
-![image_1](assets/image_1.png)
-![image_2](assets/image_2.png)
+![image_1](assets/images_1.png)
+![image_2](assets/images_2.png)
